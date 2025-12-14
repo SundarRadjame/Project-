@@ -8,7 +8,7 @@ Welcome to my personal repository where I showcase the projects I've built while
 
 This repository contains the source code and documentation for projects I completed while self-studying topics such as:
 
-- **Data Preprocessing and EDA** (SQL, Python, Pandas, Matplotlib, Seaborn)
+- **Data Preprocessing and EDA** (SQL, Python)
 - **Data Visualization** (Power BI, Tableau, Excel)
 
 --- 
