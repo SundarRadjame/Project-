@@ -17,4 +17,4 @@ This repository contains the source code and documentation for projects I comple
 
 📧 Email: sundarradjame@gmail.com
 
-💼 LinkedIn: Soundare(Sundar) (https://www.linkedin.com/in/sundarradjame/)
+💼 LinkedIn: https://www.linkedin.com/in/sundarradjame/
